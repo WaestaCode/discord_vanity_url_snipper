@@ -1,0 +1,1 @@
+# discord_vanity_url_snipper
